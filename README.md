@@ -9,7 +9,7 @@
 
 #### <img src='https://cdn-icons.flaticon.com/png/512/3114/premium/3114957.png?token=exp=1659209431~hmac=addc415710613980d50612ef0c177dfa' width="20"/>     Sobre mim:
 
- - Estudante de Matemática
+ - Estudante de Matemática :rocket:
  - Trabalhando atualmente como Dev Freelancer
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleberWacheski&show_icons=true&count_private=true&theme=tokyonight)
