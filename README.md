@@ -20,8 +20,7 @@
 
 Sobre mim:
 
- - Estudante de Matemática e Progamação 📚
- - Trabalhando atualmente como Dev Freelancer
+ - Progamador FullStack 📚
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleberWacheski&show_icons=true&count_private=true&theme=tokyonight)
  
