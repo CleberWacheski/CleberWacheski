@@ -21,9 +21,7 @@
 <br/>
 
 Sobre mim:
-
  - Progamador FullStack 📚
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleberWacheski&show_icons=true&count_private=true&theme=tokyonight)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleberWacheski&layout=compact)
+<br/>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CleberWacheski?cardType=github&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
