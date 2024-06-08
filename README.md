@@ -1,6 +1,5 @@
 ## Ola, bem vindo!! 👋
 
-Informações Relevantes:
  - [x] Github não é rede social.
  - [x] Software Engineer 📚
 <br/>
